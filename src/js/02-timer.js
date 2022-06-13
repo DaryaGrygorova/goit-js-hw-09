@@ -29,7 +29,7 @@ const inputOptions = {
   },
 };
 
-// flatpickr(refs.input, inputOptions);
+flatpickr(refs.input, inputOptions);
 
 // // --------------------
 // // Version 1 - Таймер - это объект со свойствами отвечающими 
